@@ -1,0 +1,5 @@
+job_id,job_name,start_time,end_time,status,source,run_date
+1,customer_load,2026-03-01 01:00:00,2026-03-01 01:10:00,SUCCESS,CRM,2026-03-01
+2,orders_load,2026-03-01 01:15:00,2026-03-01 01:50:00,FAILED,ERP,2026-03-01
+3,payment_load,2026-03-01 02:00:00,2026-03-01 02:20:00,SUCCESS,Finance,2026-03-01
+4,inventory_load,2026-03-01 02:30:00,2026-03-01 03:30:00,DELAYED,Warehouse,2026-03-01
